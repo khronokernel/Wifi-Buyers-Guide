@@ -1,24 +1,16 @@
 # Credit
 
-No good guide is made by one man, here's credit to those who've helped out:
+**Attention to all users, please note this guide and other khronokernel sites will be shutting down on April 16th, 2020. Reason for this is we've decided to move the guides to a dedicated organization to help simplify the hackintosh process and provide a single, trusted source for hackintosh information. This new organization will be known as [Dortania](https://github.com/dortania).**
 
-* [Midi](https://github.com/midi1996)
-   * [Hackintosh FAQ: Wifi](https://www.reddit.com/r/hackintosh/wiki/faq#wiki_wifi_compatibility)
-   * Overall corrections
-   * Correction on BCM94352Z chipset
-   
-* [DhinakG](https://github.com/dhinakg)
-   * Corrections regarding DW1830
+Links to the new sites:
 
-* [Fewt](https://fewt.gitbook.io/laptopguide/)
-   * Added FV-HB1200
+* [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Desktop-Guide/)
+* [Getting Started with ACPI](https://dortania.github.io/Getting-Started-With-ACPI/)
+* [GPU Buyers Guide](https://dortania.github.io/GPU-Buyers-Guide/)
+* [Wireless Buyers Guide](https://dortania.github.io/Wireless-Buyers-Guide/)
+* [Anti-Hackintosh Buyers Guide](https://dortania.github.io/Anti-Hackintosh-Buyers-Guide/)
 
-Sources:
 
-* [Intel Wireless List](https://www.intel.ca/content/www/ca/en/support/articles/000005511/network-and-i-o/wireless-networking.html)
-* [Wireless USB Adapter Clover](https://github.com/chris1111/Wireless-USB-Adapter-Clover)
-* [Tonymacx86's Broadcom Wifi/Bluetooth Guide](https://www.tonymacx86.com/threads/broadcom-wifi-bluetooth-guide.242423/)
-* [WikiDevi](https://wikidevi.com/wiki/Main_Page)
-* [M.2 Interface](https://www.delock.de/infothek/M.2/M.2_e.html)
-* [Tonymacx86's Bluetooth list](https://www.tonymacx86.com/threads/guide-how-to-get-bluetooth-and-wifi-working.275962/)
+If you're looking for this guide, you can find it here:
 
+# [Wireless Buyers Guide](https://dortania.github.io/Wireless-Buyers-Guide/)
